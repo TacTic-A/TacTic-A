@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/A-Taci">
+  <a href="https://github.com/TacTic-A">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=420&text=Hello!" alt="Hello!" />
   </a>
 </p>
@@ -54,7 +54,7 @@ Developer and Gamer!
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-Taci&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TacTic-A&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -64,4 +64,4 @@ Developer and Gamer!
 </p>
 
 ---
-<p align="center"><i>❤️ From <a href="https://github.com/A-Taci">A-Taci</a></i></p>
+<p align="center"><i>❤️ From <a href="https://github.com/TacTic-A">TacTic-A</a></i></p>
