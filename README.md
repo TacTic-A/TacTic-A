@@ -38,6 +38,12 @@ Developer and Gamer!
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://t.me/TacTic_A" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
